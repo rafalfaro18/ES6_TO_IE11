@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/rafalfaro18/ES6_TO_IE11#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "@babel/core": "^7.5.4",
+    "@babel/preset-env": "^7.5.4",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-rename": "^1.4.0"
   }
 }
